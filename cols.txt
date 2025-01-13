@@ -1,0 +1,17 @@
+normalized_used_price
+normalized_new_price
+battery
+selfie_camera_mp
+screen_size
+main_camera_mp
+ram
+release_year
+4g_yes
+5g_yes
+
+
+# remove
+
+int_memory
+weight
+days_used
