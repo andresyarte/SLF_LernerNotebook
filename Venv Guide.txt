@@ -1,0 +1,14 @@
+Python interpreter 3.11
+>> python3.13 --versión
+
+Creating a virtual enviorment
+>> python3.13 -m venv envname
+
+Activate virtual enviorment
+>> envname\Scripts\actívate
+
+Install dependencies from requirements.txt
+>> pip install -r requirements.txt
+
+Update pip (once venv is created and active or can be used anytime)
+>>
